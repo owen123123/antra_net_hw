@@ -26,23 +26,39 @@ GO
 --Create a view named ¡°view_product_order_[your_last_name]¡±, list all products and total ordered quantity for that product.
 create view [view_product_order_yan] as 
 select ProductID, sum(Quantity)
-from [Order Details]
+from [Order Details] od join Products p on p.ProductID = od.ProductID
 group by ProductID
 go
 
 --Create a stored procedure ¡°sp_product_order_quantity_[your_last_name]¡± that accept product id as an input and total quantities of order as output parameter.
-create proc [sp_product_order_quantity_yan]
+alter proc [sp_product_order_quantity_yan]
 @product_id int
 @total_quan int out
 as
-select @product_id, sum(@total_quan)
-from [Order Details]
-group by @product_id
+select @total_quan = sum(quantity) from [Order Details] od join Products p on p.ProductID = od.ProductID
+where p.ProductID = od.ProductID
+
+declare  @tot int
+exec sp_pro_quan 11, @tot out
+print @tot
 
 --Create a stored procedure ¡°sp_product_order_city_[your_last_name]¡± that accept product name as an input and top 5 cities that ordered most that product combined with the total quantity of that product ordered from that city as output.
+alter proc sp_product_order
+@pname nvarchar(50)
+as 
+select top 5 ShipCity, sum(Quantity)
+from [Order Details] od join Products p on p.ProductID = od.ProductID join Orders o on o.OrderID = od.OrderID
+where ProductName = @pname
+group by ProductName, ShipCity
+order by sum(quantity) desc
+
+exec sp_product_order 'Queso Cabrales'
 --Create 2 new tables ¡°people_your_last_name¡± ¡°city_your_last_name¡±. City table has two records: {Id:1, City: Seattle}, {Id:2, City: Green Bay}. People has three records: {id:1, Name: Aaron Rodgers, City: 2}, {id:2, Name: Russell Wilson, City:1}, {Id: 3, Name: Jody Nelson, City:2}. Remove city of Seattle. If there was anyone from Seattle, put them into a new city ¡°Madison¡±. Create a view ¡°Packers_your_name¡± lists all people from Green Bay. If any error occurred, no changes should be made to DB. (after test) Drop both tables and view.
 -- Create a stored procedure ¡°sp_birthday_employees_[you_last_name]¡± that creates a new table ¡°birthday_employees_your_last_name¡± and fill it with all employees that have a birthday on Feb. (Make a screen shot) drop the table. Employee table should not be affected.
 --How do you make sure two tables have the same data?
+select * from Customers
+except 
+select * from Customers
 --7.
 --First Name	Last Name	Middle Name
 --John	Green	
