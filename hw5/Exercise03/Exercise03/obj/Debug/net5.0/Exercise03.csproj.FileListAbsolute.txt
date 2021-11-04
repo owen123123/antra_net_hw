@@ -1,0 +1,16 @@
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.exe
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.deps.json
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.runtimeconfig.json
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.runtimeconfig.dev.json
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.dll
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\ref\Exercise03.dll
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\bin\Debug\net5.0\Exercise03.pdb
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.csproj.AssemblyReference.cache
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.AssemblyInfoInputs.cache
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.AssemblyInfo.cs
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.csproj.CoreCompileInputs.cache
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.dll
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\ref\Exercise03.dll
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.pdb
+E:\owen\hw\antra_net_hw\hw5\Exercise03\Exercise03\obj\Debug\net5.0\Exercise03.genruntimeconfig.cache

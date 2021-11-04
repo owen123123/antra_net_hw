@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraya_and_string", "arraya_and_string\arraya_and_string.csproj", "{F5AC447C-F858-4E62-92AC-B1FB7F32A3C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5AC447C-F858-4E62-92AC-B1FB7F32A3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AC447C-F858-4E62-92AC-B1FB7F32A3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AC447C-F858-4E62-92AC-B1FB7F32A3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AC447C-F858-4E62-92AC-B1FB7F32A3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F93F9C-E5FA-4689-B184-F669BFA6E9EA}
+	EndGlobalSection
+EndGlobal

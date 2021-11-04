@@ -1,0 +1,16 @@
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.exe
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.deps.json
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.runtimeconfig.json
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.runtimeconfig.dev.json
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.dll
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\ref\02UnderstandingTypes.dll
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net5.0\02UnderstandingTypes.pdb
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.csproj.AssemblyReference.cache
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.AssemblyInfo.cs
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.dll
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\ref\02UnderstandingTypes.dll
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.pdb
+E:\owen\hw\antra_net_hw\hw5\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net5.0\02UnderstandingTypes.genruntimeconfig.cache
