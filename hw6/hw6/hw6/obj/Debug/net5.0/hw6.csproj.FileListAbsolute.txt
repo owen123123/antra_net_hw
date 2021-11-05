@@ -1,0 +1,16 @@
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.exe
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.deps.json
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.runtimeconfig.json
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.runtimeconfig.dev.json
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.dll
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\ref\hw6.dll
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\bin\Debug\net5.0\hw6.pdb
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.csproj.AssemblyReference.cache
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.GeneratedMSBuildEditorConfig.editorconfig
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.AssemblyInfoInputs.cache
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.AssemblyInfo.cs
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.csproj.CoreCompileInputs.cache
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.dll
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\ref\hw6.dll
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.pdb
+E:\owen\hw\antra_net_hw\hw6\hw6\hw6\obj\Debug\net5.0\hw6.genruntimeconfig.cache
